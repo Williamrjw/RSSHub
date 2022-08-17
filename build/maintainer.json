@@ -4070,6 +4070,7 @@
     "/shu/:type?": [],
     "/shu/jwc/:type?": [],
     "/ustb/tj/news/:type?": [],
+    "/ustb/sd/news/:type?": [],
     "/szu/yz/:type?": [],
     "/upc/main/:type?": [],
     "/upc/jsj/:type?": [],
